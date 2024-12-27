@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["British Army Simulator", "British Army Simulator"];
-const statusTypes = [ 'online', 'online'];
+const statusTypes = [ 'dnd', 'dnd'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
